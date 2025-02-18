@@ -26,18 +26,18 @@ user to customize their schedule and be able to visualize it. The user is able t
 hitting the walls of the map where each directional command would move all robots at the same time. This game was created as an assignment from class using some code provided by the course.
 
 ## Courses
-- Database Management Systems (CPSC 471): Understanding of databases such as entity-relationship designs
+- **Database Management Systems (CPSC 471)**: Understanding of databases such as entity-relationship designs
 (ERD, EERD), relationship database structures and SQL (mySQL and Postgresql)
-- Data Structures, Algorithms and Their Applications (CPSC 331): Fundamental understanding of data
+- **Data Structures, Algorithms and Their Applications (CPSC 331):** Fundamental understanding of data
 structures such as linked lists, hash tables, trees, stacks and queues. In addition to understanding algorithms
 such as search and sort.
-- Computer Networks (CPSC 441): Understanding of computer networks and communications including
+- **Computer Networks (CPSC 441):** Understanding of computer networks and communications including
 internet protocols layers.
-- Introduction to Computer Science (CPSC 231): Learning of python through the use of problem solving of
+- **Introduction to Computer Science (CPSC 231):** Learning of python through the use of problem solving of
 designing programs
-- Introduction to Computer Science II (CPSC 233): Object-oriented programming using Java, while
+- **Introduction to Computer Science II (CPSC 233):** Object-oriented programming using Java, while
 understanding design structure and analysis of object-oriented programming.
-- Biology (BIOL 315): Data analysis of biological experiment using R, statistical hypothesis, Goodness of fit test,
+- **Biology (BIOL 315):** Data analysis of biological experiment using R, statistical hypothesis, Goodness of fit test,
 Contingency analysis, t-Test, Analysis of Variance (ANOVA), Tukey’s Multiple Comparison Test, Bartlett’s Test, Linear regression, Randomization test
 
 ## Resume 
