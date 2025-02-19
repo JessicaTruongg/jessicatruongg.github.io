@@ -13,8 +13,8 @@ management. This software will allow management to be able to plan for each empl
 ### Kaggle Competition
 - Participated in a Kaggle competition that contained various datasets with sensor readings over time of different movements for instance, walking, standing, running, etc. The created model must be able to correctly classify different movement types. 
 For this competition, I used combined machine learning models such as random forest and bootstrap with normalization techniques through python numpy and pandas to generate a model with 70% accuracy.
-[Github repo for Kaggle Competition] (https://github.com/JessicaTruongg/Movement-Classification)
-
+[Github repo for Kaggle Competition] (<https://github.com/JessicaTruongg/Movement-Classification>)
+[Github repo for Kaggle Competition]: (<https://github.com/JessicaTruongg/Movement-Classification>)
 ### Classifying Heart Sounds Using Machine Learning -- in progress
 - Using machine learning techniques, specifically cluster-based classification on a dataset with a variety of heart sounds
 to determine if an individual has an irregularity in heart sound pattern to be able to detect illness/diseases.
