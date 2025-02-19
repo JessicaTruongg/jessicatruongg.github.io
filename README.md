@@ -8,24 +8,28 @@ I am currently a third year computer science student at the University of Calgar
 ### Optimanage
 - A management software with a database for a Hula franchise store that will be used by employees and
 management. This software will allow management to be able to plan for each employee’s schedule. This software will allow for employees to input their availability on a main calendar which allows for management to have a complete visual overview of all employee’s availability for scheduling purposes.
+[Github repo for optimanage] (https://github.com/JessicaTruongg/Optimanage)
 
 ### Kaggle Competition
 - Participated in a Kaggle competition that contained various datasets with sensor readings over time of different movements for instance, walking, standing, running, etc. The created model must be able to correctly classify different movement types. 
 For this competition, I used combined machine learning models such as random forest and bootstrap with normalization techniques through python numpy and pandas to generate a model with 70% accuracy.
+[Github repo for Kaggle Competition] (https://github.com/JessicaTruongg/Movement-Classification)
 
-### Classifying Heart Sounds Using Machine Learning
+### Classifying Heart Sounds Using Machine Learning -- in progress
 - Using machine learning techniques, specifically cluster-based classification on a dataset with a variety of heart sounds
 to determine if an individual has an irregularity in heart sound pattern to be able to detect illness/diseases.
 
 ### Personal Planner
 - Used Java and JavaFX to create a personal planner with other group members through git that allows the
 user to customize their schedule and be able to visualize it. The user is able to modify existing plans, create new plans, set priorities to the plans based on a rating from 1 to 5 and be able to categorize the plans. The program was tested using JUnit 5 to ensure correctness and identify possible issues/errors.
+[Github repo for Personal Planner] (https://github.com/JessicaTruongg/Personal-Planner)
 
 ### Robot Gate Game
 - Used python to create a game where the objective was to ensure all robots pass through a gate without
 hitting the walls of the map where each directional command would move all robots at the same time. This game was created as an assignment from class using some code provided by the course.
+[Github Repo for Robot Gate Game] (https://github.com/JessicaTruongg/Robot-Gate-Game)
 
-## Courses
+## Relevant Courses
 - **Database Management Systems (CPSC 471)**: Understanding of databases such as entity-relationship designs
 (ERD, EERD), relationship database structures and SQL (mySQL and Postgresql)
 - **Data Structures, Algorithms and Their Applications (CPSC 331):** Fundamental understanding of data
@@ -40,5 +44,4 @@ understanding design structure and analysis of object-oriented programming.
 - **Biology (BIOL 315):** Data analysis of biological experiment using R, statistical hypothesis, Goodness of fit test,
 Contingency analysis, t-Test, Analysis of Variance (ANOVA), Tukey’s Multiple Comparison Test, Bartlett’s Test, Linear regression, Randomization test
 
-## Resume 
 
