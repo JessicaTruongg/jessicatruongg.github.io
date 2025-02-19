@@ -8,7 +8,7 @@ I am currently a third year computer science student at the University of Calgar
 ### Optimanage
 - A management software with a database for a Hula franchise store that will be used by employees and
 management. This software will allow management to be able to plan for each employee’s schedule. This software will allow for employees to input their availability on a main calendar which allows for management to have a complete visual overview of all employee’s availability for scheduling purposes.
-[Github repo for optimanage] <https://github.com/JessicaTruongg/Optimanage>
+[Github repo for optimanage] <a href = "Github repo for optimanage"> https://github.com/JessicaTruongg/Optimanage</a>
 
 ### Kaggle Competition
 - Participated in a Kaggle competition that contained various datasets with sensor readings over time of different movements for instance, walking, standing, running, etc. The created model must be able to correctly classify different movement types. 
