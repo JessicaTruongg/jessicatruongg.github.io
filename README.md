@@ -28,7 +28,7 @@ user to customize their schedule and be able to visualize it. The user is able t
 - Used python to create a game where the objective was to ensure all robots pass through a gate without
 hitting the walls of the map where each directional command would move all robots at the same time. This game was created as an assignment from class using some code provided by the course.
 <https://github.com/JessicaTruongg/Robot-Gate-Game>
-<img width="803" alt="Screenshot 2025-05-29 at 10 57 36 AM" src="https://github.com/user-attachments/assets/44f5b212-b54c-4616-9858-8fb8792f3f5a" />
+<img width="803" alt="Screenshot 2025-05-29 at 10 57 36 AM" src="https://github.com/user-attachments/assets/bb0fed98-d166-4657-bf53-6f889e0c39a4" />
 
 ## Relevant Courses
 - **Database Management Systems (CPSC 471)**: Understanding of databases such as entity-relationship designs
