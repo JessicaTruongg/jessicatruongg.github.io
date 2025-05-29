@@ -23,6 +23,7 @@ to determine if an individual has an irregularity in heart sound pattern to be a
 - Used Java and JavaFX to create a personal planner with other group members through git that allows the
 user to customize their schedule and be able to visualize it. The user is able to modify existing plans, create new plans, set priorities to the plans based on a rating from 1 to 5 and be able to categorize the plans. The program was tested using JUnit 5 to ensure correctness and identify possible issues/errors.
 <https://github.com/JessicaTruongg/Personal-Planner>
+<img width="680" alt="Screenshot 2025-05-29 at 12 41 39 PM" src="https://github.com/user-attachments/assets/2a069f18-c6d6-4e6b-b610-586cd445d502" />
 
 ### Robot Gate Game
 - Used python to create a game where the objective was to ensure all robots pass through a gate without
